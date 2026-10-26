@@ -8,4 +8,4 @@ Task 2 of my Bloomrix internship.
 - index.html - registration form and summary table
 
 ## How to run
-Open index.html with Live Server in Visual Studio Code, or in any web browser.
+Open index.html with Live Server in Visual Studio Code, or in any web browser. 
